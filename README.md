@@ -7,7 +7,9 @@
 
 - 📫 **Reach me at:** [choonkeatling@icloud.com](mailto:choonkeatling@icloud.com)
 
-- 💼 **Explore my experiences:** [My Resume](https://rxresu.me/ekiost/ling-choon-keat-english)
+- 💼 **Explore my experiences:** [My Resume](https://www.choonkeat.net/resume.pdf)
+
+- 🌐 **Visit my website:** [choonkeat.net](https://www.choonkeat.net)
 
 ---
 
@@ -78,5 +80,3 @@
   <li><a href="https://github.com/ekiost/SIT-Timetable-Grabber-Extension">SIT Timetable Grabber Extension</a></li>
   <li><a href="https://github.com/ekiost">More projects...</a></li>
 </ul>
-
----
