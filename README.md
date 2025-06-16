@@ -1,8 +1,6 @@
 <h1 style="text-align:center">Hi there 👋, I'm Choon Keat</h1>
 <h3 style="text-align:center">A passionate Software Engineering student from Singapore, currently diving deep into building innovative solutions with modern technologies.</h3>
 
-- 🌟 **Currently working on:** [SIT Timetable Grabber Extension](https://github.com/ekiost/SIT-Timetable-Grabber-Extension), a Chrome extension to automate timetable extraction for students.
-
 - 🎓 **Learning:** Software Engineering at Singapore Institute of Technology, focusing on web and mobile development, IoT systems, and cloud technologies.
 
 - 📫 **Reach me at:** [choonkeatling@icloud.com](mailto:choonkeatling@icloud.com)
