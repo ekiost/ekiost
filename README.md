@@ -7,10 +7,6 @@
 
 - 📫 **Reach me at:** [choonkeatling@icloud.com](mailto:choonkeatling@icloud.com)
 
-- 💼 **Explore my experiences:** [My Resume](https://www.choonkeat.net/resume.pdf)
-
-- 🌐 **Visit my website:** [choonkeat.net](https://www.choonkeat.net)
-
 ---
 
 <h3 align="left">🌐 Let's Connect:</h3>
@@ -60,17 +56,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekiost&show_icons=true&theme=dark" alt="ekiost" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekiost&theme=dark" alt="ekiost" />
 </p>
 
 ---
